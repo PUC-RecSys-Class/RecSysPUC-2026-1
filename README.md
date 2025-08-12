@@ -22,7 +22,7 @@ Agosto-Diciembre 2025
 
 ### AVISOS
 
-* (12/08) Se encuentra subida la Tarea 1 en la seccion tareas
+* (12/08) Se encuentra subida la Tarea 1 en el siguiente [enlace](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/tareas/Tarea_1_RecSys_2025_2.pdf)
 
 ### Descripción del Curso
 
