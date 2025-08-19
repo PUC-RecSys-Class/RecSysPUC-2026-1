@@ -45,7 +45,7 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 1       | **Ranking no personalizado y Filtrado colaborativo (FC)** | [slides](./clases/s1-c2-nonpers-UBCF.pdf)    | 
 | 1       | **Item-based FC**                                         | [slides](./clases/s2_c1-IBCF.pdf)    | 
 | 2       | **Factorización Matricial: FunkSVD**                      | [slides](./clases/s2_c2-Factorizacion_matricial_v2025.pdf) ([apunte FunkSVD](./clases/FunkSVD_2025_iic3633.pdf))   |
-| 2       | **Implicit Feedback CF**                                  | [slides](./clases/s3_c1-Implicit-feedback.pdf)    |
+| 2       | **Implicit Feedback CF, WMF(ALS)**                                  | [slides](./clases/s2_c2-Implicit%20Feedback%20ALS-2025.pdf)    |
 | 3       | **Bayesian Personalized Ranking (BPR)**                   | [slides](./clases/s3_c2-BPR.pdf)    |
 | 3       | **Evaluación: metricas de error y ranking**               | [slides](./clases/s4_c1-metricas_v2.pdf)    |    |   [slides P Castells LARS 2019](http://ir.ii.uam.es/castells/lars2019.pdf)                |
 | 3       | **Evaluación II: Cobertura, diversidad, novedad**                        | [slides](./clases/s4_c1-metricas_v2.pdf)    | 
