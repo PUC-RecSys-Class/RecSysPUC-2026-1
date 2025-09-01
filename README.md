@@ -51,7 +51,7 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 3       | **Evaluación: metricas de error y ranking**               | [slides](./clases/s3_c1-metricas_v3.pdf)    |    |   [slides P Castells LARS 2019](http://ir.ii.uam.es/castells/lars2019.pdf)                |
 | 3       | **Evaluación II: Cobertura, diversidad, novedad**                        | [slides](./clases/s3_c1-metricas_v3.pdf)    | 
 | 3       | **Evaluación III: Tests estadísticos**                        | [slides](./clases/s4_c2-tests_estadisticos.pdf)     |
-| 4       | **Recomendación basada en contenido 1**                   | [slides](./clases/s5_c1-content-2024.pdf)    | 
+| 4       | **Recomendación basada en contenido 1**                   | [slides](./clases/s5_c1-content-2025.pdf)    | 
 | 5       | **Recomendación basada en contenido 2**                   | [slides](./clases/s5_c2-content-2024.pdf)    | 
 | 5       | **Recomendación híbrida**                                 | [slides](./clases/s6_c1-hibridos.pdf)    | 
 | 5       | **Recomendación por ensambles**                           | [slides](./clases/s6_c2_p3-blending_ensemble.pdf)    |
@@ -71,7 +71,8 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 
 ### Planficación 2025-2
 
-<img width="1064" alt="Image" src="./documentos/Planificacion IIC3633 2025-2.png" />
+<img width="1064" alt="Image" src="https://github.com/user-attachments/assets/bb771e53-b805-42d5-8172-819bbb3ae857" />
+<!--img width="1064" alt="Image" src="./documentos/Planificacion IIC3633 2025-2.png" /-->
 
 <!--img width="1064" alt="Image" src="https://github.com/user-attachments/assets/fd10700a-4ce6-44a7-adf7-87dd4426b417" /-->
 
