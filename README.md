@@ -58,7 +58,7 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 5       | **Recomendación por ensambles**                           | [slides](./clases/s6_c2_p3-blending_ensemble.pdf)    |
 | 6       | **Recomendación basada en contexto**                      | [slides](./clases/s6_c1-contexto.pdf)    |
 | 6       | **Máquinas de Factorización**                             | [slides](./clases/s6_c2_p2-FMachines.pdf)    | 
-| 6       | **Ideas de proyecto final (2024)**                            |  [slides](./clases/ideas_proyectos-2024-IIC3633.pdf)    |
+| 6       | **Ideas de proyecto final (2025)**                            |  [slides](./clases/ideas_proyectos-2024-IIC3633.pdf) | [enunciado](./proyecto/Enunciado_Proyecto_Final_RecSys_2025_2.pdf)   |
 | 7       | **SEMANA DE RECESO**                            |  Escuchar Radiohead o Pink Floyd(?!)    |
 | 8       | **Deep Learning I: Intro**                             |  [slides](./clases/s6_c2_DeepL_CF.pdf)    | 
 | 8       | Deep Learning II: Tres proyectos                             |  [slides](./clases/s7_c2_deep_learning_s.pdf)    |
