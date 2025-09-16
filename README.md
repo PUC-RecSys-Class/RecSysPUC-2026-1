@@ -62,7 +62,7 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 7       | **SEMANA DE RECESO**                            |  Escuchar Radiohead o Pink Floyd(?!)    |
 | 8       | **Deep Learning I: Intro**                             |  [slides](./clases/s6_c2_DeepL_CF.pdf)    | 
 | 8       | Deep Learning II: Tres proyectos                             |  [slides](./clases/s7_c2_deep_learning_s.pdf)    |
-| 9       |  Bandidos multibrazos                            | [slides](https://drive.google.com/file/d/1SlDt7UCDrtJBIPUxAMjhqzsjz6uelyIn/view?usp=sharing)    |
+| 9       |  Bandidos multibrazos                            | [slides](https://drive.google.com/file/d/1xVAbOVGBVh11NsJ7XhAYHebalfQFjvxw/view?usp=sharing)    |
 | 10       |  Aprendizaje Reforzado Intro | [slides](./clases/s10_c1_aprendizaje_reforzado.pdf)    |
 | 10       |  Aprendizaje Reforzado for RecSys I| [slides](./clases/s10_SSRL_recsys_2021.pdf)    |
 | 10       |  Aprendizaje Reforzado for RecSys II| [slides](./clases/s10_RecSys_RL_Slides_ICML_2024.pdf)    |
