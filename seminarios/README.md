@@ -35,6 +35,6 @@
 |15       | 13-nov | Revealing the Hidden Impact of Top-N Metrics on Optimization in Recommender Systems | | [ECIR 2024](https://arxiv.org/pdf/2401.08444) ||
 |16       | 18-nov | User Consented Federated Recommender System Against Personalized Attribute Inference Attack | | [WSDM 2024](https://arxiv.org/abs/2312.16203) ||
 |16       | 18-nov | PTADisc: a cross-course dataset supporting personalized learning in cold-start scenarios. | | [Neurips 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/8cf04c64d1734e5f7e63418a2a4d49de-Paper-Datasets_and_Benchmarks.pdf) ||
-|16       | 20-nov |  | |  ||
+|16       | 20-nov | STAR: A Simple Training-free Approach for Recommendations using Large Language Models | | [ACL Journal 2024](https://arxiv.org/pdf/2410.16458) ||
 |16       | 20-nov | Enhancing user intent capture in session-based recommendation with attribute patterns | | [Neurips 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/621d0fd41c720ab252e178b77c200d90-Paper-Conference.pdf) ||
 |17       | 25-nov | Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights | | [WSDM 2024](https://arxiv.org/abs/2305.15036) ||
