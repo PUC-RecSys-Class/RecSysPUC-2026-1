@@ -25,8 +25,8 @@
 |13       | 28-oct | Popularity-Aware Alignment and Contrast for Mitigating Popularity Bias | [Slides](Popularity_Aware_Alignment_and_Contrast_for_Mitigating_Popularity_Bias.pdf) | [KDD 2024](https://arxiv.org/abs/2405.20718) | Sin video |
 |14       | 04-nov | A/b testing for recommender systems in a two-sided marketplace | [Slides](AB-Testing-for-recommender-systems-in-a-two-sided-marketplace.pdf)| [Neurips 2021](https://proceedings.neurips.cc/paper_files/paper/2021/file/32e19424b63cc63077a4031b87fb1010-Paper.pdf) | Sin video |
 |14       | 04-nov | Take a Fresh Look at Recommender Systems from an Evaluation Standpoint | [Slides](G10_Take_a_Fresh_Look_at_Recommender_Systems_from_an_Evaluation_Standpoint.pdf) | [SIGIR 2023](https://arxiv.org/abs/2210.04149) | Sin video |
-|14       | 06-nov | When Recommender Systems Snoop into Social Media, Users Trust them Less for Health Advice | | [CHI 2023](https://dl.acm.org/doi/10.1145/3544548.3581123) ||
-|14       | 06-nov | Generative-Contrastive Graph Learning for Recommendation | | [SIGIR 2023](https://dl.acm.org/doi/pdf/10.1145/3539618.3591691) ||
+|14       | 06-nov | When Recommender Systems Snoop into Social Media, Users Trust them Less for Health Advice | [Slides](When-Recommender-Systems-Snoop-into-Social-Media-Users-Trust-them-Less-for-Health-Advice.pdf) | [CHI 2023](https://dl.acm.org/doi/10.1145/3544548.3581123) | [Video](https://youtu.be/N-DY5B6j35Y) |
+|14       | 06-nov | Generative-Contrastive Graph Learning for Recommendation | [Slides](Generative-Contrastive-Graph-Learning-for-Recommendation.pdf) | [SIGIR 2023](https://dl.acm.org/doi/pdf/10.1145/3539618.3591691) | Sin video |
 |15       | 11-nov | Generate what you prefer: Reshaping sequential recommendation via guided diffusion. | | [Neurips 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/4c5e2bcbf21bdf40d75fddad0bd43dc9-Paper-Conference.pdf) ||
 |15       | 11-nov | Decoupled Side Information Fusion for Sequential Recommendation | | [SIGIR 2022](https://doi.org/10.1145/3477495.3531963) ||
 |15       | 13-nov | Recommender Systems with Generative Retrieval | | [NeurIPS 2023](https://arxiv.org/abs/2305.05065) ||
