@@ -1,5 +1,5 @@
 # IIC3633 Sistemas Recomendadores
-Agosto-Diciembre 2025
+Marzo-Julio 2026
 
 ### Equipo Docente e Información Administrativa
 **Instructor**: [Denis Parra](http://dparra.sitios.ing.uc.cl), Profesor Asociado PUC Chile, Ph.D. University of Pittsburgh
@@ -7,33 +7,24 @@ Agosto-Diciembre 2025
 **Ayudantes**:
 * [Alejandro Plaza](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (aplaza2@uc.cl).
 * [Juan Manuel Hernandez](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (juan_manuel1402@uc.cl).
-* [Javiera Azócar](#JaviPeace), Estudiante de Pregrado, Ciencia de la Computación PUC Chile (javiera.azcar@uc.cl).
-* [Pedro Palma](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (pedro.palma@uc.cl)
 * [Nicolás Estévez](#), Estudiante de Magíster, Ciencia de la Computación PUC Chile (nestevez@uc.cl)
  
 **Institución**: Pontificia Universidad Católica de Chile
 
-**Horario cátedra**: Martes y Jueves, Módulo 3 (11:00 a 12:10). Sala B24.\
-**Horario ayudantía**: Lunes, Módulo 5 (14:50 a 16:00). Sala B18.
+**Horario cátedra**: Martes y Jueves, Módulo 3 (11:00 a 12:10). Sala B21.
+**Horario ayudantía**: Lunes, Módulo 5 (14:50 a 16:00). Sala BC22.
 
-**Sitio web lecturas**: [Perusall](https://app.perusall.com/join/parra-2av7y)
+**Sitio web lecturas**: [Perusall](https://app.perusall.com/join/PARRA-XZXAH)
 
-**Programa** IIC3633, 2do Semestre 2025: [pdf](documentos/IIC3633Sist%20Recomendadores_v5.pdf)
+**Programa** IIC3633, 1er Semestre 2026: [pdf](documentos/IIC3633Sist%20Recomendadores_v5.pdf)
 
-### AVISOS
-
-* (23/10) Se deja completo la calendarización y material de los seminarios en el README de la carpeta [seminarios/](./seminarios)
-* (09/09) Se publica el enunciado del Proyecto de Curso, el cual se encuentra disponible en el siguiente [enlace](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/proyecto/Enunciado_Proyecto_Final_RecSys_2025_2.pdf)
-* (21/08) La lista de grupos para la Tarea 1 se encuentra disponible en el siguiente [enlace](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/ESNgTUog-j5InY5SY3I8GYgBU__K6e_Lzp_6v5pcsJ5Uag), donde los alumnos sin acceso a Canvas pueden inscribirse directamente.
-* (12/08) Se encuentra subida la Tarea 1 en el siguiente [enlace](https://github.com/PUC-RecSys-Class/RecSysPUC-2025-2/blob/master/tareas/Tarea_1_RecSys_2025_2.pdf).
-* (14/08) Se habilitó un foro en Canvas para realizar consultas de la Tarea 1.
-* (14/08) Se actualiza enunciado de la Tarea 1 para resolver inconsistencias.
+### AVISOS (Por actualizar)
 
 ### Descripción del Curso
 
 El curso de Sistemas Recomendadores cubre las principales tareas de recomendación, algoritmos, fuentes de datos y evaluación de estos sistemas. Al final de este curso serás capaz de decidir qué técnicas y fuentes de datos usar para implementar y evaluar sistemas recomendadores.
 
-**Software**: [Suprise](http://surpriselib.com/), [Implicit](https://github.com/benfred/implicit) y [pyRecLab](https://github.com/gasevi/pyreclab/).
+**Software**: [Suprise](http://surpriselib.com/), [Implicit](https://github.com/benfred/implicit) y [pyRecLab](https://github.com/gasevi/pyreclab/), [RecBole](https://recbole.cl) .
 
 <!-- ## Planificación general (sujeta a actualización) -->
 
@@ -71,7 +62,7 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 11      | Sistemas Justos, Explicables y Transparentes                              | [slides](./clases/s11_FAccT.pdf)    | 
 | 12       | 10 problemas en Sistemas de Recomendación                                     |   [slides](./clases/s12_c2_10bigproblems-recsys-small.pdf)       | 
 
-### Planificación 2025-2
+### Planificación 2026-1 (Actualizar)
 
 <!--img width="1064" alt="Image" src="https://github.com/user-attachments/assets/bb771e53-b805-42d5-8172-819bbb3ae857" /-->
 <img width="1064" alt="Image" src="./documentos/Planificacion IIC3633 2025-2.png" />
@@ -86,7 +77,7 @@ Este curso adscribe el Código de Honor establecido por la Escuela de Ingenierí
 
 ### Evaluaciones
 
-Detalles de las evaluaciones en [esta presentacion](https://uccl0-my.sharepoint.com/:p:/g/personal/dparras_uc_cl/EXYRRp0mCFxAv-AqBKfZPTsBTiBVNDmf2qWQ9kNDJVxEqQ?e=PQQgjV)
+Detalles de las evaluaciones en [esta presentacion](https://uccl0-my.sharepoint.com/:p:/g/personal/dparras_uc_cl/EXYRRp0mCFxAv-AqBKfZPTsBTiBVNDmf2qWQ9kNDJVxEqQ?e=PQQgjV) (actualizar)
 
 **Prácticos (10%)** 
 
@@ -101,7 +92,7 @@ Se realizará una tarea que constará de dos partes:
 
 **Lecturas Semanales (5%)**
 
-Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com/join/parra-2av7y) con su correo UC (codigo de curso **PARRA-2AV7Y**). Cada semana deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias.
+Cada alumno debe crear una cuenta en el sitio [Perusall](https://app.perusall.com/join/PARRA-XZXAH) con su correo UC (codigo de curso **PARRA-XZXAH**). Cada semana deberá escribir 5 comentarios propios y 2 comentarios respondiendo a sus compañeros en los módulos de las lecturas marcadas como obligatorias.
 
 Para descargar los archivos se sugiere buscarlos en [Scholar](https://scholar.google.cl) o a través de [EZProxy](https://login.pucdechile.idm.oclc.org/).
 
@@ -114,6 +105,8 @@ En la segunda mitad del semestre, los estudiantes formarán grupos para leer un 
 **Proyecto Final (40%)** 
 
 A inicios de octubre, las(los) estudiantes enviarán una idea de proyecto final, la cual desarrollarán durante octubre, noviembre e inicios de diciembre. Enviarán un informe de avance a fines de octubre, para hacer una presentación de su proyecto al final del curso en una sesión de posters, además de un informe formato paper.
+
+# Lecturas
 
 **IMPORTANTE**: Todas las entregas del curso son a las 20:00 del día de entrega correspondiente.
 
