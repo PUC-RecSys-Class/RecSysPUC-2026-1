@@ -87,8 +87,9 @@ Habrá una actividad práctica relacionada a cada ayudantía, la cual consistir�
 
 Se realizará una tarea que constará de dos partes:
 
-- Interrogación métricas (30%): Se realizará un práctico en clases (martes 26 de agosto) acerca de métricas y se entregará a final de la clase​. La inasistencia no justificada equivaldrá a un 1.0.
-- Tarea (70%): Deberán implementar mecanismos de recomendación para predecir ratings y para rankear items en un dataset entregado por el cuerpo docente.
+- Interrogación métricas (25%): Se realizará un práctico en clases (martes 31 de marzo, dependiendo de respuesta DIPRE) acerca de métricas y se entregará a final de la clase​. La inasistencia no justificada equivaldrá a un 1.0.
+- I2 (25%): por definir.
+- Tarea (50%): Deberán implementar mecanismos de recomendación para predecir ratings y para rankear items en un dataset entregado por el cuerpo docente.
 
 **Lecturas Semanales (5%)**
 
@@ -110,7 +111,7 @@ A inicios de octubre, las(los) estudiantes enviarán una idea de proyecto final,
 
 **IMPORTANTE**: Todas las entregas del curso son a las 20:00 del día de entrega correspondiente.
 
-### Semana 1 (entrega el 11 de agosto):  
+### Semana 1 (entrega el 9 de marzo):  
 
 **Obligatorias**  
 * Kluver, D., Ekstrand, M. D., & Konstan, J. A. (2018). Rating-based collaborative filtering: algorithms and evaluation. Social information access: Systems and technologies, 344-390.
@@ -123,7 +124,7 @@ A inicios de octubre, las(los) estudiantes enviarán una idea de proyecto final,
 * [Post original FunkSVD](https://sifter.org/~simon/journal/20061211.html)  
 * Lemire, D., & Maclachlan, A. (2005). Slope One Predictors for Online Rating-Based Collaborative Filtering. In SDM (Vol. 5, pp. 1-5).
 
-### Semana 2 (entrega el 18 de agosto):
+### Semana 2 (entrega el 16 de marzo):
 
 **Obligatorias**  
 
