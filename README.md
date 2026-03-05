@@ -62,10 +62,10 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 11      | Sistemas Justos, Explicables y Transparentes                              | [slides](./clases/s11_FAccT.pdf)    | 
 | 12       | 10 problemas en Sistemas de Recomendación                                     |   [slides](./clases/s12_c2_10bigproblems-recsys-small.pdf)       | 
 
-### Planificación 2026-1 (Actualizar)
+### Planificación 2026-1
 
 <!--img width="1064" alt="Image" src="https://github.com/user-attachments/assets/bb771e53-b805-42d5-8172-819bbb3ae857" /-->
-<img width="1064" alt="Image" src="./documentos/Planificacion IIC3633 2025-2.png" />
+<img width="1064" alt="Image" src="./documentos/Planificacion IIC3633 2026-1.png" />
 
 <!--img width="1064" alt="Image" src="https://github.com/user-attachments/assets/fd10700a-4ce6-44a7-adf7-87dd4426b417" /-->
 
@@ -77,7 +77,7 @@ Este curso adscribe el Código de Honor establecido por la Escuela de Ingenierí
 
 ### Evaluaciones
 
-Detalles de las evaluaciones en [esta presentacion](https://uccl0-my.sharepoint.com/:p:/g/personal/dparras_uc_cl/EXYRRp0mCFxAv-AqBKfZPTsBTiBVNDmf2qWQ9kNDJVxEqQ?e=PQQgjV) (actualizar)
+Detalles de las evaluaciones en [esta presentacion](https://uccl0-my.sharepoint.com/:p:/g/personal/dparras_uc_cl/IQB6f_k9WyPdRJ1UEg9dZNLFAfCHblyC9D7KWGijAiZepLU?e=nS3V30)
 
 **Prácticos (10%)** 
 
