@@ -18,7 +18,8 @@ Marzo-Julio 2026
 
 **Programa** IIC3633, 1er Semestre 2026: [pdf](documentos/IIC3633Sist%20Recomendadores_v5.pdf)
 
-### AVISOS (Por actualizar)
+### AVISOS
+* Plazo para la lectura 1 es este martes 9 de marzo. Recuerda crear tu cuenta en perusall <a href="https://app.perusall.com/join/PARRA-XZXAH">en este link (codigo curso PARRA-XZXAH)</a>
 
 ### Descripción del Curso
 
