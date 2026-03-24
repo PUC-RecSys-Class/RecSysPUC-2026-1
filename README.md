@@ -19,6 +19,9 @@ Marzo-Julio 2026
 **Programa** IIC3633, 1er Semestre 2026: [pdf](documentos/IIC3633Sist%20Recomendadores_v5.pdf)
 
 ### AVISOS
+
+* **Fechas para las interrogaciones**: I1: 20 de abril (programación de métricas de evaluación), I2: 01 de junio (conceptos fundamentales y métodos). Salas de avisarán a tiempo.
+
 * Plazo para la lectura 1 es este lunes 9 de marzo. Recuerda crear tu cuenta en perusall <a href="https://app.perusall.com/join/PARRA-XZXAH">en este link (codigo curso PARRA-XZXAH)</a>
 
 * Publicación del enunciado de la [Tarea 1](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-1/blob/master/tareas/Tarea_1_RecSys_2026_1.pdf). Recuerden inscribir sus parejas en los grupos de Canvas.
@@ -88,11 +91,12 @@ Habrá una actividad práctica relacionada a cada ayudantía, la cual consistir�
 
 **Tarea 1 (20%)**
 
-Se realizará una tarea que constará de dos partes:
-
+Se realizará una tarea que constará de dos partes: 
 - Interrogación métricas (25%): Se realizará un práctico en clases (martes 31 de marzo, dependiendo de respuesta DIPRE) acerca de métricas y se entregará a final de la clase​. La inasistencia no justificada equivaldrá a un 1.0.
 - I2 (25%): por definir.
+- Fechas para las interrogaciones: I1: 20 de abril (programación de métricas de evaluación), I2: 01 de junio (conceptos fundamentales y métodos). Salas de avisarán a tiempo.
 - Tarea (50%): Deberán implementar mecanismos de recomendación para predecir ratings y para rankear items en un dataset entregado por el cuerpo docente.
+
 
 **Lecturas Semanales (5%)**
 
