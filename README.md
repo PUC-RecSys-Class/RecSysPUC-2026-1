@@ -71,7 +71,7 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 ### Planificación 2026-1
 
 <!--img width="1064" alt="Image" src="https://github.com/user-attachments/assets/bb771e53-b805-42d5-8172-819bbb3ae857" /-->
-<img width="1064" alt="Image" src="./documentos/Planificacion IIC3633 2026-1-v2.png"/>
+<img width="1064" alt="Image" src="./documentos/Planificacion IIC3633 2026-1-v3.png"/>
 
 <!--img width="1064" alt="Image" src="https://github.com/user-attachments/assets/fd10700a-4ce6-44a7-adf7-87dd4426b417" /-->
 
