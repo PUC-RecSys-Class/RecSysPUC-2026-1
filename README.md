@@ -20,6 +20,9 @@ Marzo-Julio 2026
 
 ### AVISOS
 
+* **Enunciado Proyecto de Curso**: Se publica el enunciado del proyecto de curso, el cual puede encontrar en [este link](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-1/blob/master/proyecto/Enunciado_Proyecto_Final_RecSys_2026_1.pdf).
+
+
 * **Fechas para las interrogaciones**: I1: 20 de abril (programación de métricas de evaluación), I2: 01 de junio (conceptos fundamentales y métodos). Salas de avisarán a tiempo.
 
 * Plazo para la lectura 1 es este lunes 9 de marzo. Recuerda crear tu cuenta en perusall <a href="https://app.perusall.com/join/PARRA-XZXAH">en este link (codigo curso PARRA-XZXAH)</a>
