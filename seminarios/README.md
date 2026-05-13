@@ -2,38 +2,34 @@
 
 ## Indicaciones Generales
 
-- La rúbrica actualizada de evaluación está disponible en la [presentación de evaluaciones del curso](https://uccl0-my.sharepoint.com/:p:/g/personal/dparras_uc_cl/EXYRRp0mCFxAv-AqBKfZPTsBTiBVNDmf2qWQ9kNDJVxEqQ?e=PQQgjV). 
+- La rúbrica actualizada de evaluación está disponible en la [presentación de evaluaciones del curso](https://uccl0-my.sharepoint.com/:p:/g/personal/dparras_uc_cl/IQB6f_k9WyPdRJ1UEg9dZNLFAfCHblyC9D7KWGijAiZepLU?e=nS3V30). 
 
-- El listado de papers para elegir se encuentra disponible en el siguiente [enlace](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/EXMF6oB-ZB9LrXqxumKm3ZEBpxpzz5w-cRL6F58ntRUb_A?e=qQPmAF). En este deben inscribir con su grupo el paper que deseen presentar. Tienen hasta el viernes 3 de octubre para inscribirse. En caso de que no se hayan inscrito para dicha fecha, se les asignará de manera aleatoria a una presentación.
+- El listado de papers para elegir se encuentra disponible en el siguiente [enlace](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/IQBQlKMiripgTYolXsi0Tp9FAU1zb5cTu_aOnMnz27eW_Xg).
 
-- El [calendario de presentaciones](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/EcPWWwkuJ8FOpCzYBd_riBYBsWEMvXlJjAi5M0tqMunchA?e=NgqN0i) está publicado y disponible en el enlace adjunto.
+- El [calendario de presentaciones](https://uccl0-my.sharepoint.com/:x:/g/personal/dparras_uc_cl/IQAhF5WRgly0QrOQogN8E0OQAS3PVG8vlFhogdnegObhu00?e=lkLdBw) está publicado y disponible en el enlace adjunto.
 
 - En Canvas está disponible el buzón donde se debe entregar el material correspondiente a su seminario, el cual deben enviar hasta las **20:00 hrs del día anterior de su presentación**.
 
-- El [formulario de coevaluación](https://forms.gle/LeeifvgLAsaqUXbm7) lo pueden encontrar en el enlace adjunto.
+- El [formulario de coevaluación](#) lo pueden encontrar en el enlace adjunto (PROXIMAMENTE).
 
 
 ## Cronograma y material de seminarios
 
 | Semana  | Día    | Paper            | Link slide(s) | Conferencia   | Presentación  |
 |:--------|:-------|:-----------------|:-------------:|:-------------:|:-------------:|
-|12       | 21-oct | User Welfare Optimization in Recommender Systems with Competing Content Creators | [Slides](User_Welfate_Optimization_in_RS.pdf) | [KDD 2024](https://arxiv.org/abs/2404.18319) | [Video](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F11zerC9XcEywSpI7SamozBPML0gw2WYzo%2Fview%3Fusp%3Dsharing&data=05%7C02%7Caplaza2%40uc.cl%7C7ae7be6f04f7403986f308de102b3e18%7C5ff5d9faf83f4ac1a4d2eb48ea0a00d2%7C0%7C0%7C638965975499847262%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=TPIMAd77a2Tt9MqLKCI51c2Bb6QWZ8NWn%2F7rHwdFd%2B0%3D&reserved=0) |
-|12       | 21-oct | Rethinking Multi-Interest Learning for Candidate Matching in Recommender Systems | [Slides](Rethinking_Multi-Interest_Learning.pptx) | [ACM RecSys 2023](https://arxiv.org/abs/2302.14532) | [Video](https://uccl0-my.sharepoint.com/personal/anibal_fermandois_uc_cl/_layouts/15/stream.aspx?id=%2Fpersonal%2Fanibal%5Ffermandois%5Fuc%5Fcl%2FDocuments%2Fentrega%20Recsys%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4dcf14d3%2Dee6f%2D4be4%2Da6de%2D4e47b5f06b42&ct=1761007312180&or=OWA%2DNT%2DMail&cid=08a94e1d%2D5a26%2D056d%2D2a5c%2Dccdd79b7a3df&ga=1&LOF=1) |
-|12       | 23-oct | Post Processing Recommender Systems with Knowledge Graphs for Recency, Popularity, and Diversity of Explanations | [Slides](Post_Processing_Recommender_Systems_with_Knowledge_Graphs_For_Recency_Popularity_and_Diversity_of_Explanations.pdf) | [SIGIR 2022](https://doi.org/10.1145/3477495.3532041) | Sin Video |
-|12       | 23-oct | Budgeted Embedding Table For Recommender Systems | [Slides](Budgeted_Embedding_Table_For_Recommender_Systems.pdf)| [WSDM 2024](https://arxiv.org/abs/2310.14884) | Sin Video|
-|13       | 28-oct | Large Language Models are Zero-Shot Rankers for Recommender Systems | [Slides](LLM_Zero-Shot_Rankers_SysRec.pdf)| [ECIR 2024](https://arxiv.org/abs/2305.08845) | [Video](https://youtu.be/YspD8B3P-yE)|
-|13       | 28-oct | Popularity-Aware Alignment and Contrast for Mitigating Popularity Bias | [Slides](Popularity_Aware_Alignment_and_Contrast_for_Mitigating_Popularity_Bias.pdf) | [KDD 2024](https://arxiv.org/abs/2405.20718) | Sin video |
-|14       | 04-nov | A/b testing for recommender systems in a two-sided marketplace | [Slides](AB-Testing-for-recommender-systems-in-a-two-sided-marketplace.pdf)| [Neurips 2021](https://proceedings.neurips.cc/paper_files/paper/2021/file/32e19424b63cc63077a4031b87fb1010-Paper.pdf) | Sin video |
-|14       | 04-nov | Take a Fresh Look at Recommender Systems from an Evaluation Standpoint | [Slides](G10_Take_a_Fresh_Look_at_Recommender_Systems_from_an_Evaluation_Standpoint.pdf) | [SIGIR 2023](https://arxiv.org/abs/2210.04149) | Sin video |
-|14       | 06-nov | When Recommender Systems Snoop into Social Media, Users Trust them Less for Health Advice | [Slides](When-Recommender-Systems-Snoop-into-Social-Media-Users-Trust-them-Less-for-Health-Advice.pdf) | [CHI 2023](https://dl.acm.org/doi/10.1145/3544548.3581123) | [Video](https://youtu.be/N-DY5B6j35Y) |
-|14       | 06-nov | Generative-Contrastive Graph Learning for Recommendation | [Slides](Generative-Contrastive-Graph-Learning-for-Recommendation.pdf) | [SIGIR 2023](https://dl.acm.org/doi/pdf/10.1145/3539618.3591691) | Sin video |
-|15       | 11-nov | Generate what you prefer: Reshaping sequential recommendation via guided diffusion. | [Slides](Generate-What-You-Prefer-Reshaping-Sequential-Recommendation-via-Guided-Diﬀusion.pdf)| [Neurips 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/4c5e2bcbf21bdf40d75fddad0bd43dc9-Paper-Conference.pdf) | Sin video |
-|15       | 11-nov | Decoupled Side Information Fusion for Sequential Recommendation | [Slides](DECOUPLED-SIDE-INFORMATION-FUSION-FOR-SEQUENTIAL-RECOMMENDATION.pdf) | [SIGIR 2022](https://doi.org/10.1145/3477495.3531963) | Sin video |
-|15       | 13-nov | Recommender Systems with Generative Retrieval | [Slides](Recommender-Systems-with-Generative-Retrieval.pdf)| [NeurIPS 2023](https://arxiv.org/abs/2305.05065) | Sin video |
-|15       | 13-nov | Revealing the Hidden Impact of Top-N Metrics on Optimization in Recommender Systems | [Slides](Revealing-the-Hidden-Impact-of-Top-N-Metrics-on-Optimization-in-Recommender-Systems.pdf) | [ECIR 2024](https://arxiv.org/pdf/2401.08444) | [Video](https://uccl0-my.sharepoint.com/:v:/g/personal/dparras_uc_cl/EbhC9pv5DM9PjFaXj5DrsiABHzejuhfAHVfmAQCfTMbGHA?e=CTSbjm) |
-|16       | 18-nov | User Consented Federated Recommender System Against Personalized Attribute Inference Attack | [Slides](User-Consented-Federated-Recommend-System-Against-Personalized-Attribute-Inference-Attack.pdf)| [WSDM 2024](https://arxiv.org/abs/2312.16203) | Sin video |
-|16       | 18-nov | PTADisc: a cross-course dataset supporting personalized learning in cold-start scenarios. | [Slides](PTADisc-Un-Dataset-Cross-Course-para-Aprendizaje-Personalizado-en-Escenarios-Cold-Start.pdf) | [Neurips 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/8cf04c64d1734e5f7e63418a2a4d49de-Paper-Datasets_and_Benchmarks.pdf) | Sin video |
-|16       | 20-nov | STAR: A Simple Training-free Approach for Recommendations using Large Language Models | [Slides](STAR-A-simple-Training-free-Aproach-for-Recomendations-using-Large-Language-Models.pdf) | [ACL Journal 2024](https://arxiv.org/pdf/2410.16458) | [Video](https://uccl0-my.sharepoint.com/:v:/g/personal/dparras_uc_cl/IQBWinYE9ydHSJLbuiJjI2p6AfsM4okOBRZfzYPVkI8yfag?e=8gcwMf) |
-|16       | 20-nov | Enhancing user intent capture in session-based recommendation with attribute patterns | [Slides](Enhancing-User-Intent-Capture-in-Session-Based-Recommendation-with-Attribute-Patterns.pdf) | [Neurips 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/621d0fd41c720ab252e178b77c200d90-Paper-Conference.pdf) | Sin video |
-|17       | 25-nov | Combining Graph Neural Networks and Sentence Encoders for Knowledge-aware Recommendations | [Slides](Combining-GNNs-and-Sentence-Encoders-for-Knowledge-aware-Recommendations.pdf) | [UMAP 2023](https://dl.acm.org/doi/pdf/10.1145/3565472.3592965?casa_token=8kpp843rbjAAAAAA:22rOkeeMrX9BroRHHl5XcrLZSKwf6BO-XU4Gh0l5hQpmK_pZ5HN18CUzBD08giGdL1Dwphua-ylHAg) | Sin Video |
-|17       | 25-nov | Where to Go Next for Recommender Systems? ID- vs. Modality-based Recommender Models Revisited | [Slides](Where-to-Go-Next-for-Recommender-Systems-ID-vs-Modality-based-Recommender-Models-Revisited.pdf) | [SIGIR 2023](https://arxiv.org/abs/2303.13835) | [Video](https://www.canva.com/design/DAG5o8nCM6Y/qMcQqxrY5gmulz9l5VisAw/edit?utm_content=DAG5o8nCM6Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+|13       | 26-may | You Don't Bring Me Flowers: Mitigating Unwanted Recommendations Through Conformal Risk Control | | [RecSys 2025](https://arxiv.org/abs/2507.16829) | |
+|13       | 26-may | Allingning Distillation For Cold Start Item Recomendation | | [SIGIR 2023](https://dl.acm.org/doi/10.1145/3539618.3591732) | |
+|13       | 28-may |  | | []() | |
+|13       | 28-may | LLM-Powered User Simulator for Recommender System | | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33456) | |
+|14       | 02-jun | Heterogeneous Graph Contrastive Learning for Recommendation | | [WSDM 2023](https://arxiv.org/pdf/2303.00995) | |
+|14       | 02-jun | AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems | | [NeurIPS 2025](https://arxiv.org/pdf/2505.19623) | |
+|14       | 04-jun | Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System | | [KDD 2024](https://arxiv.org/pdf/2404.11343) | |
+|14       | 04-jun | LLMEmb: Large Language Model Can Be a Good Embedding Generator for Sequential Recommendation | | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33327) | |
+|15       | 09-jun | Catalog-Native LLM: Speaking Item-ID Dialect with Less Entanglement for Recommendation | | [ICLR 2026](https://arxiv.org/pdf/2510.05125) | |
+|15       | 09-jun | ActionPiece: Contextually Tokenizing Action Sequences for Generative Recommendation | | [ICML 2025](https://arxiv.org/pdf/2502.13581) | |
+|15       | 11-jun | Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning | | [ICLR 2026](https://arxiv.org/pdf/2510.20150) | |
+|15       | 11-jun | DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems | | [WSDM 2025](https://arxiv.org/pdf/2408.12470) | |
+|16       | 16-jun | CollectiveKV: Decoupling and Sharing Collaborative Information in Sequential Recommendation | | [ICLR 2026](https://arxiv.org/pdf/2601.19178) | |
+|16       | 16-jun | Item-Difficulty-Aware Learning Path Recommendation: From a Real Walking Perspective | | [KDD 2024](http://staff.ustc.edu.cn/~huangzhy/files/papers/HaotianZhang-KDD2024.pdf) | |
+|16       | 18-jun | Temporal Linear Item-Item Model for Sequential Recommendation | | [WSDM 2025](https://arxiv.org/pdf/2412.07382) | |
+|16       | 18-jun |  | | []() | |
