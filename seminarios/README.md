@@ -10,7 +10,7 @@
 
 - En Canvas está disponible el buzón donde se debe entregar el material correspondiente a su seminario, el cual deben enviar hasta las **20:00 hrs del día anterior de su presentación**.
 
-- El [formulario de coevaluación](#) lo pueden encontrar en el enlace adjunto (PROXIMAMENTE).
+- El [formulario de coevaluación](https://docs.google.com/forms/d/e/1FAIpQLSdi0_SaTnlphbPwKXMzJ8H22hI8vOcGBjP6jF-VpuAKr2kEKQ/viewform?usp=publish-editor) lo pueden encontrar en el enlace adjunto.
 
 
 ## Cronograma y material de seminarios
@@ -19,7 +19,7 @@
 |:--------|:-------|:-----------------|:-------------:|:-------------:|:-------------:|
 |13       | 26-may | You Don't Bring Me Flowers: Mitigating Unwanted Recommendations Through Conformal Risk Control | | [RecSys 2025](https://arxiv.org/abs/2507.16829) | |
 |13       | 26-may | Allingning Distillation For Cold Start Item Recomendation | | [SIGIR 2023](https://dl.acm.org/doi/10.1145/3539618.3591732) | |
-|13       | 28-may |  | | []() | |
+|13       | 28-may | Unbiased Recommender Learning from Implicit Feedback via Weakly Supervised Learning | | [ICML 2025](https://proceedings.mlr.press/v267/wang25p.html) | |
 |13       | 28-may | LLM-Powered User Simulator for Recommender System | | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33456) | |
 |14       | 02-jun | Heterogeneous Graph Contrastive Learning for Recommendation | | [WSDM 2023](https://arxiv.org/pdf/2303.00995) | |
 |14       | 02-jun | AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems | | [NeurIPS 2025](https://arxiv.org/pdf/2505.19623) | |
@@ -32,4 +32,4 @@
 |16       | 16-jun | CollectiveKV: Decoupling and Sharing Collaborative Information in Sequential Recommendation | | [ICLR 2026](https://arxiv.org/pdf/2601.19178) | |
 |16       | 16-jun | Item-Difficulty-Aware Learning Path Recommendation: From a Real Walking Perspective | | [KDD 2024](http://staff.ustc.edu.cn/~huangzhy/files/papers/HaotianZhang-KDD2024.pdf) | |
 |16       | 18-jun | Temporal Linear Item-Item Model for Sequential Recommendation | | [WSDM 2025](https://arxiv.org/pdf/2412.07382) | |
-|16       | 18-jun |  | | []() | |
+|16       | 18-jun | LLM-ESR: Large Language Models Enhancement for Long-tailed Sequential Recommendation | | [NeurIPS 2024](https://arxiv.org/pdf/2405.20646) | |
