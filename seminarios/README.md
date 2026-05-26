@@ -17,8 +17,8 @@
 
 | Semana  | Día    | Paper            | Link slide(s) | Conferencia   | Presentación  |
 |:--------|:-------|:-----------------|:-------------:|:-------------:|:-------------:|
-|13       | 26-may | You Don't Bring Me Flowers: Mitigating Unwanted Recommendations Through Conformal Risk Control | | [RecSys 2025](https://arxiv.org/abs/2507.16829) | |
-|13       | 26-may | Allingning Distillation For Cold Start Item Recomendation | | [SIGIR 2023](https://dl.acm.org/doi/10.1145/3539618.3591732) | |
+|13       | 26-may | You Don't Bring Me Flowers: Mitigating Unwanted Recommendations Through Conformal Risk Control | [Slides](./You_Dont_Bring_Me_Flowers.pdf) | [RecSys 2025](https://arxiv.org/abs/2507.16829) | [Video](https://uccl0-my.sharepoint.com/:v:/g/personal/dparras_uc_cl/IQAW_xta1VzxTIuOvmJ9HfRPAULnqoSje4lO6rIUTjIVDWw?e=L3oG4Z) |
+|13       | 26-may | Allingning Distillation For Cold Start Item Recomendation | [Slides](./Aligning_Distillation_for_Cold-start_Item_Recommendation.pdf) | [SIGIR 2023](https://dl.acm.org/doi/10.1145/3539618.3591732) | [Video](https://www.youtube.com/watch?v=pKB7QswptTY) |
 |13       | 28-may | Unbiased Recommender Learning from Implicit Feedback via Weakly Supervised Learning | | [ICML 2025](https://proceedings.mlr.press/v267/wang25p.html) | |
 |13       | 28-may | LLM-Powered User Simulator for Recommender System | | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33456) | |
 |14       | 02-jun | Heterogeneous Graph Contrastive Learning for Recommendation | | [WSDM 2023](https://arxiv.org/pdf/2303.00995) | |
