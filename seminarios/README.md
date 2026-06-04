@@ -23,8 +23,8 @@
 |13       | 28-may | LLM-Powered User Simulator for Recommender System |[Slides](./LLM-Powered_User_Simulator_for_Recommender_System.pdf) | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33456) | Sin Video |
 |14       | 02-jun | Heterogeneous Graph Contrastive Learning for Recommendation | [Slides](./Heterogeneous_Graph_Contrastive_Learning_for_Recommendation.pdf)| [WSDM 2023](https://arxiv.org/pdf/2303.00995) | Sin Video |
 |14       | 02-jun | AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems | [Slides](./AgentRecBench.pdf) | [NeurIPS 2025](https://arxiv.org/pdf/2505.19623) | [Video](https://uccl0-my.sharepoint.com/:v:/g/personal/dparras_uc_cl/IQBiB_gUewvTQpVqWZW5ztoFAajdfNGj_lLnYjlxdCw7Q_U) |
-|14       | 04-jun | Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System | | [KDD 2024](https://arxiv.org/pdf/2404.11343) | |
-|14       | 04-jun | LLMEmb: Large Language Model Can Be a Good Embedding Generator for Sequential Recommendation | | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33327) | |
+|14       | 04-jun | Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System | [Slides](./A-LLMRec_Efficient_All-round_Recommendation.pdf) | [KDD 2024](https://arxiv.org/pdf/2404.11343) | Sin Video |
+|14       | 04-jun | LLMEmb: Large Language Model Can Be a Good Embedding Generator for Sequential Recommendation | [Slides](./LLMEmb.pdf) | [AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33327) | Sin Video |
 |15       | 09-jun | Catalog-Native LLM: Speaking Item-ID Dialect with Less Entanglement for Recommendation | | [ICLR 2026](https://arxiv.org/pdf/2510.05125) | |
 |15       | 09-jun | ActionPiece: Contextually Tokenizing Action Sequences for Generative Recommendation | | [ICML 2025](https://arxiv.org/pdf/2502.13581) | |
 |15       | 11-jun | Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning | | [ICLR 2026](https://arxiv.org/pdf/2510.20150) | |
