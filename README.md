@@ -20,6 +20,9 @@ Marzo-Julio 2026
 
 ### AVISOS
 
+* **Seminario**: Desde la semana 13 en adelante, el curso toma la modalidad seminario donde leemos papers recientes y los discutimos en clases.
+Puedes ver la lista de papers del seminario 2026-1 en la [carpeta seminarios de este repositorio](./seminarios).
+
 * **Enunciado Proyecto de Curso**: Se publica el enunciado del proyecto de curso, el cual puede encontrar en [este link](https://github.com/PUC-RecSys-Class/RecSysPUC-2026-1/blob/master/proyecto/Enunciado_Proyecto_Final_RecSys_2026_1.pdf).
 
 
@@ -70,6 +73,9 @@ Los contenidos de las semanas 1, 2 y 4 los puedes revisar a tu ritmo en este cur
 | 11      | Sistemas Justos, Explicables y Transparentes                              | [slides](./clases/s11_FAccT.pdf)    | 
 | 11       | 10 problemas en Sistemas de Recomendación                                     |   [slides](./clases/s12_c2_10bigproblems-recsys-small.pdf)       | 
 | 12       | **SEMANA DE RECESO**                            |  Escuchar Radiohead o Pink Floyd(?!)    |
+
+Desde la semana 13 en adelante, el curso toma la modalidad seminario donde leemos papers recientes y los discutimos en clases.
+Puedes ver la lista de papers del seminario 2026-1 en la [carpeta seminarios de este repositorio](./seminarios).
 
 ### Planificación 2026-1
 
