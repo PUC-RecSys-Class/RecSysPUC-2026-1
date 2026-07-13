@@ -1,4 +1,4 @@
-# Proyectos Finales 2025 - 2
+# Proyectos Finales 2026 - 1
 
 | Grupo | Foto | Título | Paper | Poster |
 |:------|:----:|:------:|:-----:|:------:|
